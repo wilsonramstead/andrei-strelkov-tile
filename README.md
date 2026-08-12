@@ -16,13 +16,13 @@ No invented license #, founding year, email or pricing.
 
 ## Images (Unsplash — hotlinked; dedup-checked against all websites/*/index.html + README.md + templates)
 Hero / og:image:
-- photo-1613849925362-38fb4c16ff36 — marble-look walk-in shower (hero + og)
+- photo-1771929662486-f793e08f0f16 — glass walk-in shower, large-format marble-look tile (hero + og)
 
 Services:
 - photo-1585412727254-46e14627b8df — bright bathroom / glass shower
-- photo-1522061541612-28ef361a3045 — decorative patterned floor tile (installer)
+- photo-1722348675233-e3af1abd4023 — large-format tile floor freshly laid in a room
 - photo-1582667407868-07060cb5e61f — white kitchen subway backsplash
-- photo-1523413307857-ef24c53571ae — tile being set by hand (install in progress)
+- photo-1701850009190-2859ba2aeea6 — tradesman spreading mortar by hand with a trowel (renovation in progress)
 
 Work gallery:
 - photo-1585412727362-3abb5d23bc31 — white subway walk-in shower (tall)
